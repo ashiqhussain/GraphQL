@@ -1,4 +1,4 @@
-# GrpahQL example using Apollo GraphQL
+# GraphQL example using Apollo GraphQL
 
 # Running application
 npm run start:env
